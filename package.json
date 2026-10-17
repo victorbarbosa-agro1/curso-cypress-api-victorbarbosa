@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/victorbarbosa-agro1/curso-cypress-api-victorbarbosa#readme",
   "devDependencies": {
+    "@faker-js/faker": "^10.6.0",
     "@types/node": "^26.6.5",
     "cypress": "^16.2.0",
     "cypress-plugin-api": "^2.12.3",
